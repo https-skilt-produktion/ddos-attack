@@ -1,1 +1,1 @@
-worker: python ./Attack.py
+web python ./Attack.py
