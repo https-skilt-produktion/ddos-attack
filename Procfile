@@ -1,1 +1,1 @@
-web python ./Attack.py
+web: python ./Attack.py
